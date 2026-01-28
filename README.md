@@ -1,39 +1,42 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hola, soy Estiven
 
-###
+🚀 Desarrollador Frontend enfocado en aplicaciones web y móviles  
+💻 Apasionado por crear interfaces limpias, rápidas y funcionales  
+📱 Web & Mobile Developer
 
-<p align="left">My name is Estiven and I'm a Software Developer, from Colombia</p>
+---
 
-###
+## 🛠️ Tecnologías que uso
 
-<h2 align="left">About me</h2>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-###
+### Mobile
+- 📱 React Native
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+## 📊 GitHub Stats
 
-<h2 align="left">I code with</h2>
+![EstivenZDev GitHub stats](https://github-readme-stats.vercel.app/api?username=EstivenZDev&show_icons=true&theme=tokyonight)
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstivenZDev&layout=compact&theme=tokyonight)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---
 
-###
+## 🚀 Actualmente
+- Mejorando mis habilidades en **React & Next.js**
+- Construyendo proyectos web y móviles
+- Aprendiendo buenas prácticas de UI/UX
+
+---
+
+## 📫 Contacto
+- 💼 GitHub: [github.com/EstivenZDev](https://github.com/EstivenZDev)
+
+---
+
+⭐ Si te gustan mis proyectos, ¡no olvides dejar una estrella!
