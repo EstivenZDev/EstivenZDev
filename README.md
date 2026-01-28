@@ -52,9 +52,3 @@
 
 ###
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EstivenZDev/EstivenZDev/output/snake.svg" alt="Snake animation" />
-
-###
