@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="mongo logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
   
   
 </div>
